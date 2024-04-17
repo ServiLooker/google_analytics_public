@@ -3,12 +3,12 @@ project_name: "marketplace_ga4_manual"
 
 ## Connection Constants:
 constant: GA4_CONNECTION {
-  value: "analytics_servi"
+  value: "CONNECTION"
   export: override_required
 }
 
  constant: GA4_SCHEMA {
-   value: "analytics_368295697"
+   value: "DATABASE"
    export: override_optional
 }
 
